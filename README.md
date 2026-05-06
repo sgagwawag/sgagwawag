@@ -1,16 +1,16 @@
-## Hi there 👋
+# 313 ❤️
 
-<!--
-**sgagwawag/sgagwawag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://flagcdn.com/w1280/bh.png" width="600" height="400" alt="Bahrain Flag"/>
+  <h2>Hey, I'm from Bahrain 🇧🇭</h2>
+</div>
 
-Here are some ideas to get you started:
+**`Hey`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a 16 year old from Bahrain interested in software engineering and other stuff.  
+I will probably not be that active.
+
+<p align="left">
+      <a href="https://github.com/sgagwawag?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
